@@ -21,6 +21,13 @@ Black-Scholes-Equation/
 └── README.md        # Project documentation
 ```
 
+## Project Idea
+
+The Project references a YouTube video listed below:
+https://youtu.be/lY-NP4X455U?si=aosBN1smdiqcB1f4
+
+More functionality & Styling will be updated
+
 ## Mathematical Foundation
 
 The Black-Scholes model calculates option prices using:
