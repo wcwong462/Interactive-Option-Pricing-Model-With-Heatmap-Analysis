@@ -17,11 +17,8 @@ Black-Scholes-Equation/
 ├── app.py           # Main Streamlit application
 ├── model.py         # Black-Scholes calculations and Greeks
 ├── heatMap.py       # Heatmap visualization functions
-├── analysis.py      # Additional analysis tools
 ├── requirements.txt # Python dependencies
-├── README.md        # Project documentation
-└── assets/
-    └── style.css    # Custom styling
+└── README.md        # Project documentation
 ```
 
 ## Mathematical Foundation
