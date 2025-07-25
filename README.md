@@ -60,7 +60,7 @@ Where:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wcwong462/Interactive-Option-Pricing-Model-With-Heatmap-Analysis.git
    cd Black-Scholes-Equation
    ```
 
